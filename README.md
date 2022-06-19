@@ -1,2 +1,1 @@
-# Proiect TPI de Bara Razvan Mihail 434A
-# Proiiect-TPI
+# Proiect TPI Bara Razvan Mihail 434A
