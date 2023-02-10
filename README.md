@@ -1,1 +1,1 @@
-# Proiect TPI Bara Razvan Mihail 434A
+# Just a basic weather app using [Stormglass API](https://stormglass.io/, Stormglass website)
